@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "9850",
+      "name": "sdsds",
+      "email": "asd@gmail.com",
+      "phone": "435243",
+      "education": "bsc"
+    },
+    {
+      "id": "61cf",
+      "name": "abhishek",
+      "email": "abhi@gmail.com",
+      "phone": "82934982",
+      "education": "bsc"
+    },
+    {
+      "id": "6926",
+      "name": "kapil",
+      "email": "kapil@gmail.com",
+      "phone": "8092782739",
+      "education": "bsc"
+    },
+    {
+      "id": "4aed",
+      "name": "abhsdadkjaakjskjdhkj",
+      "email": "sakjdnakjsd@gmail.com",
+      "phone": "88327837498732498",
+      "education": "kjashdkjhkjdnkja"
+    }
+  ]
+}
